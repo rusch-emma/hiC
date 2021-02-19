@@ -5,7 +5,7 @@
 * [`src/pileups/`](https://github.com/rusch-emma/hiC/tree/master/src/pileups)
   * [`notebooks/pileups.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/pileups/notebooks/pileups.ipynb): Jupyter notebook for creating pileups plots around centromeres.
   * [`pileups.py`](https://github.com/rusch-emma/hiC/blob/master/src/pileups/pileups.py): CLI tool for creating pileups plots of a specified size around centromeres.
-* [`src/scalings`](https://github.com/rusch-emma/hiC/tree/master/src/scalings)
+* [`src/scalings/`](https://github.com/rusch-emma/hiC/tree/master/src/scalings)
   * [`notebooks/scalings.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings.ipynb): Jupyter notebook for creating scalings plots (contact frequency vs genomic separation).
   * [`notebooks/scalings_arms.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings_arms.ipynb): Jupyter notebook for creating scaling plots of separate chromosomal arms.
   * [`notebooks/scalings_asym.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings_asym.ipynb): Jupyter notebook for creating off-diagonal scaling plots.
