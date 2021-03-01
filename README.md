@@ -9,6 +9,7 @@
   * [`notebooks/scalings.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings.ipynb): Jupyter notebook for creating scalings plots (contact frequency vs genomic separation).
   * [`notebooks/scalings_arms.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings_arms.ipynb): Jupyter notebook for creating scaling plots of separate chromosomal arms.
   * [`notebooks/scalings_asym.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings_asym.ipynb): Jupyter notebook for creating off-diagonal scaling plots.
+  * [`notebooks/scalings_region.ipynb`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/notebooks/scalings_region.ipynb): Jupyter notebook for creating scaling plots of a specified region.
   * [`scalings.py`](https://github.com/rusch-emma/hiC/blob/master/src/scalings/scalings.py): CLI tool for creating scaling plots for one or more `.pairs` files.
  
  #### Hi-C specific libraries
